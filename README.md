@@ -1,7 +1,9 @@
 # [REPO NAME]
 > Single sentence describing the purpose of your repo
 
-More detailed description of your repository
+[Workflow status badges - see [docs](https://docs.github.com/en/actions/managing-workflow-runs/adding-a-workflow-status-badge)]
+
+More detailed description of your repository here
 
 ![](header.png) [Screenshot of your software, if applicable]
 
